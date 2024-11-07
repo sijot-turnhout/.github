@@ -58,3 +58,14 @@ Afhankelijk van de ernst en frequentie van de overtreding kunnen de volgende sta
 - **Informele waarschuwing:** Bij een lichte overtreding geven we een vriendelijke herrinering aan deze gedragscode. Hierbij krijgt de contributor uitleg over waarom het gedrag onwenselijk is en hoe dit kan worden verbeterd.
 - **Formele waarschuwing:** Bij herhaald of ernstiger ongepast gedrag wordt een formele waarschuwing gegeven. Dit gaat gepaard met een documentatie van het incident en, indien nodig, aanvullende begeleiding om herhaling te voorkomen.
 - **Tijdelijke uitsluiting**: Als het ongewenste gedrag aanhoudt of ernstig is, kan een tijdelijke schorsing van deelname aan de hub worden opgelegd. Dit biedt de contributor de kans om te reflecteren op hun acties voordat zij kunnen terugkeren.
+- **Permanente uitsluiting:** n gevallen van ernstig, grensoverschrijdend gedrag, of bij herhaalde overtredingen na eerdere maatregelen, kan de deelnemer permanent worden uitgesloten van de open-source hub. Deze beslissing wordt genomen door de core maintainers of de beheerders van de werking.
+
+Onze handhaving is gericht op herstel en verbetering, maar bij ernstige incidenten behouden we ons het recht voor om strengere maatregelen te nemen om de veiligheid en het welzijn van de gehele community te beschermen. 
+
+## 6. Probleem melden 
+
+Als je getuige bent van een overtreding van deze gedragscode, of als je zelf ongewenst gedrag ervaart, neen dan contact op met @tjoosten. Alle meldingen worden vertrouwelijk behandeld, en we nemen stappen om de veiligheid en privacy van degenen die een melding doen te waarborgen.
+
+## 7. Aanpassingen en herziening 
+
+Deze gedragscode wordt regelmatig herzien en geüpdatet om ervoor te zorgen dat deze blijft aansluiten bij de behoeften van onze open-source gemeenschap en de waarden van scouting. Wij staan open voor feedback en suggesties van alle leden om onze gedragscode te verbeteren.
