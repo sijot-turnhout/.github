@@ -1,0 +1,10 @@
+name: Update changelog 
+
+on: 
+  workflow_call: 
+    inputs: 
+      branch:
+        description: 'Target branch'
+        default: ${{ github.event.release.target_commitish }}
+        type: string 
+        
